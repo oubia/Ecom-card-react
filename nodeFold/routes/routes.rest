@@ -1,0 +1,4 @@
+GET http://localhost:3001/robot/
+
+###
+GET http://localhost:3001/robot/2
